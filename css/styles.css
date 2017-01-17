@@ -1,6 +1,16 @@
-.tilted {
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
   text-align: center;
   font-weight: bold;
+  color: red;
+  font-size: 35 px;
 
 }
 
@@ -13,4 +23,9 @@
   text-align: center;
   font-weight: lighter;
   font-style: italic;
+}
+
+.tilted {
+  font-weight: bold;
+  color: blue;
 }
