@@ -1,0 +1,16 @@
+.tilted {
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.info {
+  text-align: left;
+  font-weight: normal;
+}
+
+.contact{
+  text-align: center;
+  font-weight: lighter;
+  font-style: italic;
+}
